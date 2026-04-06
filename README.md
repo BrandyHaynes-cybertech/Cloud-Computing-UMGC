@@ -1,8 +1,36 @@
 
+---
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/%20%F0%9F%8F%86%20AWS%20Academy%20Graduate%20%7C%20Cloud%20Architecting%20%7C%20Training%20Badge%20%F0%9F%8F%86-154360?style=for-the-badge&logoColor=white" height="75" width="100%" />
+  <br /><br />
+  <a href="https://www.credly.com/badges/fb7e9e17-20e6-470e-879c-b934673e3392">
+    <img src="https://img.shields.io/badge/AWS_Academy_Graduate-Cloud_Architecting-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="50" />
+  </a>
+  <br /><br />
+  <b>Issued:</b> July 27, 2024 &nbsp;|&nbsp;
+  <b>Hours Completed:</b> 60 Hours &nbsp;|&nbsp;
+  <a href="https://www.credly.com/badges/fb7e9e17-20e6-470e-879c-b934673e3392"><b>✅ Verify on Credly</b></a>
+  <br /><br />
+</div>
+
+---
+
+---
+
+
+
+
+
+
 
 # Cloud Computing & AWS Infrastructure — CMIT 326 | UMGC
 Verified coursework from the University of Maryland Global Campus.  
 Topics covered: Cloud migration strategy, AWS VPC architecture, EC2 deployment, security groups, cloud vendor analysis, and infrastructure cost reduction.
+
+
+
 
 ---
 
